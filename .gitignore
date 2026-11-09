@@ -1,0 +1,19 @@
+# Environment variables & secrets
+.env
+*.env
+
+# Build & compiled outputs
+target/
+*.class
+
+# IDE & Editor settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs & temp files
+*.log
+logs/
